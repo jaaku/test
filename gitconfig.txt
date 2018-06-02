@@ -1,0 +1,10 @@
+[gui]
+	recentrepo = C:/Users/Jaak/Documents/ut/2semester/git/githubveeb/jaaku.github.com
+	recentrepo = C:/Users/Jaak/Documents/ut/2semester/git/4praks/cse-prac4-branching
+[user]
+	email = jaak.ungro@gmail.com
+	name = Jaak Ungro
+[core]
+	editor = 'c:/Program Files/Sublime Text 3/sublime_text.exe'
+[alias]
+	history = log --oneline --all --graph --decorate
